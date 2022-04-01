@@ -1,5 +1,0 @@
-Grocey List
--Milk
--Egg
--Kethcup
--Ice Cream Bars
